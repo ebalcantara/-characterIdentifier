@@ -1,1 +1,1 @@
-# -characterIdentifier
+# characterIdentifier
