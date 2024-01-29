@@ -1,3 +1,3 @@
 # characterIdentifier
 
-## This is a ML based script to recognize handwritten numbers.
+## This is a Deep Learning based script to recognize handwritten numbers.
